@@ -1,4 +1,5 @@
-[home](/index.html) > [modular](/modular.html)
+###### [home](/index.html) > [modular](/modular.html)
+
 # UK Post-war Prefabs
 
 At the end of World War II, England faced a severe housing shortage. Wartime rationing had put a halt to new construction during the war, and thousands of houses had been destroyed or damaged during the blitz. England needed to built an estimated 200,000 houses. But traditional building materials, such as timber or brick, were in short supply, as were skilled craftsman. And even if they were available, the houses were needed immediately - there wasn’t time to build them using typical construction methods.
@@ -17,3 +18,5 @@ In the face of these challenges, the Ministry of Works instituted a strategy of 
 	- [Defects](https://api.parliament.uk/historic-hansard/commons/1984/mar/12/system-built-houses)
 	- [Airey Houses](https://api.parliament.uk/historic-hansard/commons/1984/nov/27/airey-houses-grants)
 - [Homes through the decades (pdf)](http://www.nhbc.co.uk/NewsandComment/Documents/filedownload,59849,en.pdf)
+
+###### *last updated: 03/11/19*
