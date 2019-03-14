@@ -18,7 +18,7 @@ A list of various attempts at modular (ie: factory built) housing throughout his
 - Keck Crystal House
 - Good Housekeeping Stran-Steel House
 - Jacobs House
-- Quonset Hut
+- [Quonset Hut](/quonset.html)
 - Packaged House/General Panel System
 - Yankee Portables
 - Plas-2-Point House
