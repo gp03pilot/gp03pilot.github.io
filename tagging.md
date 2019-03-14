@@ -8,6 +8,8 @@ It's similar to the problem of categorization.
 
 Too many/too few tags/categories are useless
 
+as soon as you add a new tag/category, your whole system collapses, unless you go back and re-tag everything
+
 tagging is reverse search - instead of looking for what you want by search term, you're trying to guess what search terms you'll be using later. Ie, you're trying to anticipate the mind of future you. tagging is therefore an inherently self-limiting venture, as it relies on you knowing your own future mind
 
 It's surprisingly easy to scan large number of items (hundreds, certainly). categorization in most cases is premature, where what you really want is a bigass list
