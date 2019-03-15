@@ -21,5 +21,6 @@ A list of various structural support systems, both historic and modern
 	- Concentric Braced Frame
 	- Eccentric Braced Frame
 	- Buckling-Restrained Braced Frame
+- [Tuned Mass Damper](https://en.wikipedia.org/wiki/Tuned_mass_damper)
 
 ###### *last updated: 3/13/19*
