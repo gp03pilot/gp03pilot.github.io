@@ -9,6 +9,7 @@ A list of various structural support systems, both historic and modern
 	- [Tied-arch](https://en.wikipedia.org/wiki/Tied-arch_bridge)
 	- [Flying Buttress](https://en.wikipedia.org/wiki/Flying_buttress)
 	- Flat Arch
+	- Three-hinged Arch
 	- [Staggered Truss](https://en.wikipedia.org/wiki/Staggered_truss_system)
 - Truss
 	- Howe Truss
