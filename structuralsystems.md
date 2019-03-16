@@ -3,10 +3,13 @@
 
 A list of various structural support systems, both historic and modern
 
-- [Tied-arch](https://en.wikipedia.org/wiki/Tied-arch_bridge)
-- [Flying Buttress](https://en.wikipedia.org/wiki/Flying_buttress)
-- Flat Arch
-- [Staggered Truss](https://en.wikipedia.org/wiki/Staggered_truss_system)
+### Load Paths
+
+- Arch
+	- [Tied-arch](https://en.wikipedia.org/wiki/Tied-arch_bridge)
+	- [Flying Buttress](https://en.wikipedia.org/wiki/Flying_buttress)
+	- Flat Arch
+	- [Staggered Truss](https://en.wikipedia.org/wiki/Staggered_truss_system)
 - Truss
 	- Howe Truss
 	- King Post Truss
@@ -17,10 +20,105 @@ A list of various structural support systems, both historic and modern
 	- Vierendeel Truss
 	- Scissor Truss
 	- Pratt Truss
-- Braced Frame
-	- Concentric Braced Frame
-	- Eccentric Braced Frame
-	- Buckling-Restrained Braced Frame
-- [Tuned Mass Damper](https://en.wikipedia.org/wiki/Tuned_mass_damper)
+- Beams
+	- Transfer Beam
+	- Deep Beam
+- lateral systems
+	- Unbonded post-tensioned moment frames
+	- braced frames
+		- concentric braced frame
+		- eccentric braced frame
+		- buckling restrained braced frame
+	- moment frames
+	- cantilever columns
+	- shearwalls
+	- [Tuned Mass Damper](https://en.wikipedia.org/wiki/Tuned_mass_damper)
+	- Diaphragm
+		- Flexible
+		- Rigid
+		- Semi-rigid
+		- Collector
 
-###### *last updated: 3/13/19*
+### Materials
+- Concrete
+	- shotcrete
+	- Tunnel Forms
+	- Void Forms
+	- Slabs
+	- Ransome system
+	- M2 System
+	- Hollowcore
+	- Wafflecrete
+	- Barton Spider Web System
+	- Cantilever flat slab system
+	- Simplex System
+	- Mushroom System
+	- Watson System
+	- Akme System
+	- Corr-Plate
+	- SMI System
+	- Three Way System
+	- Double Tee
+	- Bubble Deck
+	- AAC
+	- Kahn System
+	- ICF
+- Steel (mild)
+	- Conxtech
+	- Castellated beam
+	- Bulb Beams
+	- Holorib Roof Deck
+	- C-joist light gauge joists
+	- Combi-slab http://bosfa.com/applications/combislab/
+	- Steel plate bridge http://www.structuremag.org/?p=12752
+	- steel plate shearwalls
+- Steel (light gauge)
+	- load bearing cfs studs
+	- steel sheet shearwalls
+	- flat strap ties
+- Hybrid
+	- Girder Slab
+	- Diversakore
+	- Delta Beam
+	- Composite floor/roof deck
+- Wood
+	- CLT
+	- NLT
+	- DLT (dowel laminated timber)
+	- TJI joists
+	- mi-tek trusses
+	- Reciprocal Frame
+	- glulam
+	- dimensional lumber
+- Foundations
+	- shallow foundations
+	- deep foundations
+		- auger cast piles
+		- helical piles
+		- micropiles
+		- drilled piers
+		- pin piles
+		- steel h piles
+		- pipe piles
+		- timber piles
+	- ground improvement
+		- stone columns
+		- geopiers
+	- Post tensioned slab on grade
+	- friestedt sheet piles
+	- wemlinger sheet pile
+	- inverted arch footing
+- Retaining Walls
+	- MSE
+	- Ecology Block
+	- Crib Walls
+	- Gabion Walls
+	- Bin Walls
+	- Sheet Piles
+		- Steel
+		- Precast
+		- Vinyl
+		- Fiberglass
+
+
+###### *last updated: 3/16/19*
