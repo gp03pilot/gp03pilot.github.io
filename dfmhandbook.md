@@ -1,6 +1,8 @@
 ###### [home](/index.html) > [construction changes](/constructionchanges.html)
 # Sections I Highlighted in my copy of "Design for Manufacturability Handbook"
 
+Handbook on ways to design things so they can be manufactured efficiently. [Amazon link.](https://www.amazon.com/Design-Manufacturability-Handbook-James-Bralla/dp/007007139X)
+
 *On direct labor:*
 
 > The number of manufacturing operations required to complete a part probably is the greatest single determinant of direct labor cost. Each operation involves a “pick up and locate” and a “remove and set aside” of the material or part, and usually additional inspection by the operators is necessary. In addition, as the number of operations increases, indirect costs tend to accelerate. The chances for cumulative dimensional error are increased owing to changing locating points and surfaces. More setups are required; scrap and rework increase; timekeeping, counting, and paperwork expand; and shop scheduling becomes more complex.
