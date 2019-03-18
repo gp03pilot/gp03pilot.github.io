@@ -82,6 +82,7 @@ A list of various structural support systems, both historic and modern
 	- Diversakore
 	- Delta Beam
 	- Composite floor/roof deck
+	- Hollow-Tile Arch
 - Wood
 	- CLT
 	- NLT

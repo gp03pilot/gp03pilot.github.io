@@ -5,9 +5,9 @@ Here's a list of engineering resources around the net I've found useful.
 
 ### Building Codes
 
-- [Archive.org](http://archive.org/details/publicsafetycode) Public Safety Codes: Collection of various building codes available for download. Particularly useful is every version of the IBC – 2000, 2003, 2006, 2009 and 2012.
-- Public.Resource.org Building Codes: Another online code collection, largely overlaps with archive.org.
-- PublicCodes.Cyberregs.com: Online code repository maintained by the ICC. Doesn’t allow downloading, and navigating is an extreme pain.
+- [Archive.org](http://archive.org/details/publicsafetycode) Public Safety Codes: Collection of various building codes available for download. Particularly useful is every version of the IBC – [2000](http://archive.org/details/gov.law.icc.ibc.2000), [2003](http://archive.org/details/gov.law.icc.ibc.2003), [2006](http://archive.org/details/gov.law.icc.ibc.2006), [2009](http://archive.org/details/gov.law.icc.ibc.209) and [2012](http://archive.org/details/gov.law.icc.ibc.2012).
+- [Public.Resource.org Building Codes](https://law.resource.org/pub/us/code/): Another online code collection, largely overlaps with archive.org.
+- [PublicCodes.Cyberregs.com](ttp://publicecodes.cyberregs.com/): Online code repository maintained by the ICC. Doesn’t allow downloading, and navigating is an extreme pain.
 - [Up.Codes](https://up.codes/codes/): Online access to most state-specific building codes
 
 ### Wind and Earthquake Maps
@@ -57,4 +57,4 @@ Here's a list of engineering resources around the net I've found useful.
 - SEAINT Mail Archive: Structural Engineer’s Association mailing list archive, going back to 1995.
 - DesignToEurocodes.com: Forum for Eurocode design.
 
-###### *last updated: 03/16/19*
+###### *last updated: 03/17/19*
