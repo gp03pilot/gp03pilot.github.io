@@ -1,18 +1,18 @@
 ###### [home](/index.html)
 
-# What makes something easy to manufacture?
+# What Makes Something Easy to Manufacture?
 
-#### Notes on the 'Design for Manufacturability Handbook"
+#### Notes on the Design for Manufacturability Handbook
 
 ![nailclipper](nailclipper.png)
 
-The "Design for manufacturability Handbook" is a reference on how to manufacture things as efficiently (read: cheaply) as possible. It covers a broad swath of tooling strategies, processes, material components, fasteners, fabrication processes, and assembly techniques.
+[The Design for Manufacturability Handbook](https://www.amazon.com/Design-Manufacturability-Handbook-James-Bralla/dp/007007139X), by James Bralla, is a reference on how to manufacture things as efficiently (read: cheaply) as possible. It covers a broad swath of tooling strategies, processes, material components, fasteners, fabrication processes, and assembly techniques.
 
 My interest was mostly on best practices that could be applied to fabrication in general, and I skipped most of the chapters on specific things like die-casting, machining, or heat treating.
 
 ---
 
-So what makes something easy to manufacture? Bralla suggests a variety of strategies:
+So what makes something easy to manufacture? In between discussions of injection molding and arc welding, Bralla makes a variety of suggestions:
 
 ### Minimize the number of manufacturing operations
 
@@ -20,7 +20,7 @@ The number of manufacturing operations required to complete a part probably is t
 
 ### Minimize the number of parts required
  
-Every part created, as above, has a number of costs associated with it. Eliminating new parts eliminated those costs. Combine parts if possible. Parts that move, must be made of different materials, or would make assembly more difficult are bad candidates for being combined. Try to combine right and left handed parts. use sub assemblies
+Every part created has a number of costs associated with it. Eliminating new parts eliminated those costs. Combine parts if possible. Parts that move, must be made of different materials, or would make assembly more difficult are bad candidates for being combined. Try to combine right and left handed parts. Use sub assemblies.
 
 ### Minimize the number of *new* parts required
 
@@ -36,9 +36,9 @@ Tooling is expensive, and can generally only be justified by amortizing over a l
 
 ### Focus on ease of assembly
 
-Often final assembly of a product is the most expensive operation. Designing for assembly, ie: simplifying the product so it has fewer parts, and can be put together with fewer and simpler operations, can confer significant benefits. Optimization at this level should thus be done first. Then, once you know what parts iwll actuall exist, can you optimize the remaining portion.
+Often final assembly of a product is the most expensive operation. Designing for assembly, ie: simplifying the product so it has fewer parts, and can be put together with fewer and simpler operations, can confer significant benefits. Optimization at this level should thus be done first. Then, once you know what parts will actuall exist, can you optimize the remaining portion.
 
-design parts so they cannot be inserted incorrectly. BONUS: design parts so they can be inserted correctly in multiple different ways. parts should nest within each other where possible, or otherwise fit together to make them "self aligning". Use tapers, shoulders, notches, funnels, etc. The tighter the tolerances required, the more difficult (and expensive) to manufature. The looser the tolerances and fits, the better.
+Design parts so they cannot be inserted incorrectly. *BONUS:* design parts so they can be inserted correctly in multiple different ways. Parts should nest within each other where possible, or otherwise fit together to make them "self aligning". Use tapers, shoulders, notches, funnels, etc. The tighter the tolerances required, the more difficult (and expensive) to manufacture. The greater the tolerances and fits, the better.
 
 Use parts that won't get tangled or stuck (simple shapes, no flexible components). Design so assembly can proceed with simple motions, and doesn't require complex maneuvers (being placed from the top down is best). Make parts easy to pick up and handle.
 
