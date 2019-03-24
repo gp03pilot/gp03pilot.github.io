@@ -28,7 +28,7 @@ Creating something new requires creating an entire set of operations around desi
 
 ### Involve manufacturing as early as possible in the design process
 
-The earlier manufacturing is involved, the more they'll be able to suggest efficient strategies; the later they're involved, the more difficult it will be to change design direction. Wherever possible provide performance specs instead of process requirements; allow manufacturing determine the optimal operations.
+The earlier manufacturing is involved, the more they'll be able to suggest efficient strategies; the later they're involved, the more difficult it will be to change design direction. Make manufacturing integral to the design process rather than an afterthought. Wherever possible provide performance specs instead of process requirements; allow manufacturing determine the optimal operations.
 
 ### Don't use custom tooling unless you have large production volumes
 
