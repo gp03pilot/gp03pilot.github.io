@@ -1,4 +1,4 @@
-# Coarse Grained
+# Coarse Grains
 
 Notes on the past and future of the construction industry.
 
