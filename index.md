@@ -11,5 +11,6 @@
 ### Book Notes
 
  - [Design for Manufacturability Handbook](/dfm2.html)
+ - [How Buildings Learn](/buildingslearn.html)
 
-###### *last updated: 03/23/19*
+###### *last updated: 03/24/19*
