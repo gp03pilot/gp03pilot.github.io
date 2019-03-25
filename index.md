@@ -1,4 +1,6 @@
-# A Website To Be Named Later
+# Coarse Grained
+
+Notes on the past and future of the construction industry.
 
 ### Notebooks
 
@@ -12,5 +14,9 @@
 
  - [Design for Manufacturability Handbook](/dfm2.html)
  - [How Buildings Learn](/buildingslearn.html)
+
+### About
+
+coming soon
 
 ###### *last updated: 03/24/19*
