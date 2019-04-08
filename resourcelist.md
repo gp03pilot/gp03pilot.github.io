@@ -25,6 +25,8 @@ Here's a list of engineering resources around the net I've found useful.
 - [UglyBridges.com](http://uglybridges.com/): User-friendly interface for National Bridge Inventory data.
 - [Nationalbridges.com](http://nationalbridges.com/): Another online parsing of NBI data.
 - [Bridgehunter.com](http://bridgehunter.com/): Database of notable bridges, past and present.
+- [Minnesota DOT Aesthetic Guidelines for Bridges](https://www.dot.state.mn.us/bridge/pdf/aestheticguidelinesforbridgedesign.pdf)
+- [Bridge Aesthetics Sourcebook](http://www.wsdot.wa.gov/publications/fulltext/Bridge/Aesthetics_Sourcebook.pdf)
 
 ### Engineering Magazines
 
@@ -57,4 +59,4 @@ Here's a list of engineering resources around the net I've found useful.
 - SEAINT Mail Archive: Structural Engineer’s Association mailing list archive, going back to 1995.
 - DesignToEurocodes.com: Forum for Eurocode design.
 
-###### *last updated: 03/17/19*
+###### *last updated: 04/07/19*
