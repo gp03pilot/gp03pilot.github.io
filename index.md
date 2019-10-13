@@ -15,8 +15,12 @@ Miscellaneous projects by Brian Potter
  - [Design for Manufacturability Handbook](/dfm2.html)
  - [How Buildings Learn](/buildingslearn.html)
 
+### Essays
+
+- [How to Write a Structural Engineering Resume](/structuralresume.html) - Guide for writing a structural engineering resume, along with a resume template.
+
 ### About
 
 coming soon
 
-###### *last updated: 03/25/19*
+###### *last updated: 10/13/19*
