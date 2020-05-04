@@ -53,6 +53,9 @@ A list of various structural support systems, both historic and modern
 - Ground improvement
 	- stone columns
 
+### Misc
+- [Vapor Barrier](/vaporbarrier.html)
+
 ### Materials
 - Concrete
 	- shotcrete
@@ -143,4 +146,4 @@ A list of various structural support systems, both historic and modern
 		- Fiberglass
 
 
-###### *last updated: 3/27/19*
+###### *last updated: 5/3/20*
