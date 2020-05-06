@@ -7,12 +7,12 @@ Concrete gains strength as it ages, as the cement in the mix gradually hydrates.
 
 The design strength of concrete, f'c, is generally defined as it's strength at 28 days. However, ACI lets you set any date you want for determining f'c. A longer curing time can be useful for high strength mixes, or mixes with a high percentage of slag or fly ash.
 
-From ACI 318-14:
+*From ACI 318-14:*
 
 > 26.12.1.1 Compliance requirements:
 (a) A strength test shall be the average of the strengths of at least two 6 x 12 in. cylinders or at least three 4 x 8 in. cylinders made from the same sample of concrete and tested at 28 days __or at test age designated for f'c.__
 
-From ACI 214 "Guide to Evaluation of Strength Test of Concrete":
+*From ACI 214 "Guide to Evaluation of Strength Test of Concrete":*
 
 >6.4—Additional test requirements:
 Normally, potential compressive strength and variability
@@ -36,7 +36,7 @@ slow strength gain is used.__ Some structural elements or
 structures will not be loaded until concrete has matured longer
 than 28 days and advantage can be taken of this strength gain.
 
-[NPCA: The 28-Day Myth](https://precast.org/2013/10/28-day-myth/)
+[*NPCA: The 28-Day Myth*](https://precast.org/2013/10/28-day-myth/)
 
 >A specified compressive strength may be for any strength at any age of concrete. There is nothing wrong with specifying 5,000-psi compressive strength at one, seven, 11, 14 or 56 days. It all depends on the mix design, circumstances and project requirements. The American Concrete Institute recognizes 28 days or “the test age designated for determination of the specified compressive strength.”
 
