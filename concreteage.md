@@ -3,7 +3,7 @@
 
 Concrete gains strength as it ages, as the cement in the mix gradually hydrates. The strength over time curve generally looks like the following:
 
-![concretestrength](concretestrength.jpg)
+![concretestrength](concretestrength.jpg)\
 
 The design strength of concrete, f'c, is generally defined as it's strength at 28 days. However, ACI lets you set any date you want for determining f'c. A longer curing time can be useful for high strength mixes, or mixes with a high percentage of slag or fly ash.
 
