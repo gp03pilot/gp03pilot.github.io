@@ -1,5 +1,5 @@
 ###### [home](/index.html)
-# Concrete Testing Age
+## Concrete Testing Age
 
 Concrete gains strength as it ages, as the cement in the mix gradually hydrates. The strength over time curve generally looks like the following:
 
