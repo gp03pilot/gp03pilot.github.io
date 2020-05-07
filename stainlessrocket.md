@@ -24,7 +24,7 @@ or balloon and needed no internal structure to give it added strength and stabil
 
 The previous Popular Mechanics article suggests that stainless hasn't been used in rockets since the Atlas. However, according to [Design Methodologies for Space Transportation Systems](https://www.amazon.com/Design-Methodologies-Transportation-Systems-Education/dp/1563474727), it's a commonly used material:
 
-![stainless](stainless.png)\
+![stainless](stainless.jpg)\
 
 ---
 
