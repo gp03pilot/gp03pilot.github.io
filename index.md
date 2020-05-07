@@ -4,8 +4,8 @@ Miscellaneous projects by Brian Potter
 
 ### Misc
 
+- [Stainless Steel Rockets](/stainlessrocket.html) - The benefits of using stainless steel for rocket construction.
 - [Concrete Age](/concreteage.html) - Defining the time to determine f'c.
-
 
 ### Notebooks
 
