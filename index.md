@@ -4,6 +4,7 @@ Miscellaneous projects by Brian Potter
 
 ### Notes
 
+- [Densified Wood](/densifiedwood.html) - An engineered wood product made by applying high pressure to dimensional lumber.
 - [Stainless Steel Rockets](/stainlessrocket.html) - The benefits of using stainless steel for rocket construction.
 - [Concrete Age](/concreteage.html) - Defining the time to determine f'c.
 - [How to Write a Structural Engineering Resume](/structuralresume.html) - Guide for writing a structural engineering resume.
@@ -15,4 +16,4 @@ Miscellaneous projects by Brian Potter
 - [Design for Manufacturability Handbook](/dfm2.html)
 - [How Buildings Learn](/buildingslearn.html)
 
-###### *last updated: 05/06/20*
+###### *last updated: 05/09/20*
