@@ -9,7 +9,8 @@ Densified wood is exactly what it sounds like, wood that has been compressed via
 
 ---
 
-[From 'Structure and Properties Relationships of Densified Wood']()
+[From 'Structure and Properties Relationships of Densified Wood'](https://vtechworks.lib.vt.edu/handle/10919/35810)
+
 >Wood with inadequate mechanical properties can be modified by various combinations of
 compressive, thermal and chemical treatments. It can be densified by impregnating its void
 volume with polymers, molten natural resins, waxes, sulfur, and even molten metals, with
@@ -64,8 +65,10 @@ product from being adopted by the industry. Strength properties of Staypak are g
 comparable with those of Compreg, except that the impact strength is considerably higher.
 Staypak is much less dimensionally stable than Compreg.
 
+---
 
 [From 'Mechanical and Physical Properties of Semi-Isostatically Densified Wood':](https://www.diva-portal.org/smash/get/diva2:991172/FULLTEXT01.pdf)
+
 >When wood is densified through semi-isostatical compression in a Quintus-press at
 pressures up to 140 MPa, the material properties change. The cells are flattened, size is
 decreased and shape is changed, as a consequence the density is increased. Most
@@ -115,6 +118,7 @@ common method to handle the swelling problem is by coating the surfaces with e.g
 ---
 
 [Lignostone:](https://www.roechling-industrial.com/us/materials/composites/datasheet-materials/lignostoner-transformerwoodr-/-lignostoner-cryogenic)
+
 >Lignostone® is a laminated densified wood that consists of beech veneers (Fagus sylvatica), which are joined together with thermosetting synthetic resins under pressure and heat.
 >
 >Due to its special material properties, Lignostone® is mainly used as insulation material in transformer construction and as thermal insulation for tank supports in LNG and LPG vessels.
@@ -124,9 +128,11 @@ common method to handle the swelling problem is by coating the surfaces with e.g
 ---
 
 [Insulam](https://www.ckcomposites.com/insulam-dielectrics/)
+
 >C-K Composites manufactures densified wood laminate products, commonly referred to as “Permali” in the industry.  C-K’s trade name for this material is Insulam™. This unique material combines the dielectric properties and stability of thermosetting phenolic resin with the strength and toughness of wood fibers. The result is essentially wood-reinforced plastic which is a very good dielectric which exhibits excellent mechanical properties.
 
 One use of Insulam is in [neutron shielding for nuclear reactors](https://www.ckcomposites.com/files/documents/Biological_Neutron_Shielding.pdf):
+
 >Increasingly stringent Atomic Energy Commision requirements have placed added emphasis on the structural integrity and portability of neutron shielding materials. Periodic inspection of Boiling Water Ractor recirculating system pipe sections between reactor core and primary or scrificial shield, as well as inspection of the drywalls, the space between core and shield, have necessitated periodic removal of shielding. Shield removal is usually manual or manually assisted, and thus shielding weight becomes significant.The heavier the shielding to be removed, the greater is the time required in removing it, and the shorter the exposure time remaining for the same personnel to do the actual inspecting; relief crews may be required. Even during shutdown for in-service inspection, low-level radiation continues to be emitted and exposure time for personnel is limited and must be carefully monitored. Insulam NH, in contrast to concrete, is relatively lightweight, allowing more rapid shield removal and, consequently, greater time for inspection.
 >
 >In addition to the weight problem, the use of concrete for shield plugs has another serious drawback. Concrete surfaces tend to dust and powder from exposure or from contact with another surface. This action by frequently moved concrete blocks releases radioactive microscopic particles which are easily inhaled, further reducing safe exposure time. Inhaled "hot" particles tend to produce maximum radiation tolerance levels much faster than does external exposure. To control dusting and increase manageability of concrete used in removable shielding it is sometimes contained in block form within a tin or aluminum "can". These metals, however, are prone to denting and deformation. Which such irregularities develop, the effectiveness of the shielding is compromosed and a real danger of escaping radiation develops. By the nature of its composition, Insulam NH does not exhibit dusting and does not require any "canning" or encapsulating.
