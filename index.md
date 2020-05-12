@@ -4,7 +4,8 @@ Miscellaneous projects by Brian Potter
 
 ### Notes
 
-- [structural Composite Lumber](/scl.html) - Miscellaneous notes on Composite Lumber and the limitations of normal lumber.
+- [Horizontal Shear Capacity of Concrete Joints](/scl.html) - Tracking down the source of some conservative ACI provisions.
+- [Structural Composite Lumber](/scl.html) - Miscellaneous notes on Composite Lumber and the limitations of normal lumber.
 - [Densified Wood](/densifiedwood.html) - An engineered wood product made by applying high pressure to dimensional lumber.
 - [Stainless Steel Rockets](/stainlessrocket.html) - The benefits of using stainless steel for rocket construction.
 - [Concrete Age](/concreteage.html) - Defining the time to determine f'c.

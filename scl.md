@@ -29,7 +29,7 @@ to ensure that the finished product will have the desired engineering properties
 >
 >...Sheets of LVL are commonly produced in 0.6- to 1.2-m
 (2- to 4-ft) widths in a thickness of 38 mm (1.5 in.). Continuous presses can be used to form a potentially endless sheet,
-which is cut to the desired length<sup>2</sup>>.
+which is cut to the desired length<sup>2</sup>.
 
 ---
 
@@ -97,7 +97,7 @@ fungus attack. The old wood technology of ships had evolved
 to the point where it could successfully deal with large changes
 in wood moisture content, but the rot problem was never
 solved. Although the development of all-bonded joints solved
-the major structural limitation of wood construction, moisturerelated problems persisted. By 1945, moisture problems were
+the major structural limitation of wood construction, moisture related problems persisted. By 1945, moisture problems were
 perceived by the aircraft engineering community as a
 fundamental unresolved dilemma that severely limited wood
 as a viable engineering material for high-performance dynamic
