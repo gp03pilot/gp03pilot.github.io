@@ -4,7 +4,7 @@ Miscellaneous projects by Brian Potter
 
 ### Notes
 
-- [Horizontal Shear Capacity of Concrete Joints](/scl.html) - Tracking down the source of some conservative ACI provisions.
+- [Horizontal Shear Capacity of Concrete Joints](/conchorizshear.html) - Tracking down the source of some conservative ACI provisions.
 - [Structural Composite Lumber](/scl.html) - Miscellaneous notes on Composite Lumber and the limitations of normal lumber.
 - [Densified Wood](/densifiedwood.html) - An engineered wood product made by applying high pressure to dimensional lumber.
 - [Stainless Steel Rockets](/stainlessrocket.html) - The benefits of using stainless steel for rocket construction.
