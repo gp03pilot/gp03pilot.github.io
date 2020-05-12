@@ -41,7 +41,7 @@ If we dig back, we find that this 80 psi value is very near the lower bound valu
 
 ![aci333_2](aci333_2.PNG)\
 
-The values were incorporated into ACI 318-71, and have been unchanged ever since:
+The 80 psi value was incorporated into ACI 318-71 for both smooth reinforced and rough reinforced, and have been unchanged ever since:
 
 ![aci333_3](aci333_3.PNG)\
 
