@@ -33,33 +33,37 @@ So where does the 80psi value come from?
 
 ---
 
-If we dig back, we find that this 80 psi value is very near the lower bound value of 78 psi that first appears in a report from ACI-ASCE Committee 333 in its 1960 report:
-
-![aci333](aci333.PNG)\
-
-78 psi is the given horizonal shear strength of specimen A2 (though its worth noting that all the unreinforced joints had a smooth surface). The committee used this data to recommend a bond value of 80 psi for smooth surfaces:
+If we dig back, we find that the 80 psi value first appears in ACI-ASCE Committee 333 "Tentative Recommendations for Design of Composite Beams and Girders for Buildings".
 
 ![aci333_2](aci333_2.PNG)\
 
-The 80 psi value was incorporated into ACI 318-71 for both smooth reinforced and rough reinforced, and have been unchanged ever since:
+These recommendations are based on horizontal shear capacities of 78 beams tested, nine of which failed in horizontal shear. Of these, only 3 of these members had unreinforced joints, all of which were smooth:
 
-![aci333_3](aci333_3.PNG)\
+![aci333](aci333.PNG)\
 
-The source of A2 is reference 9, "Behavior of Composite Lintel Beams in Bending" Ozell (1956). This publication is currently unavailable from PCI, however, we can find it discussed in a CTA Technical Bulletin from 1974:
+Furthermore, the data in Table 2 appears to have been copied incorrectly. We can find it discussed in a CTA Technical Bulletin from 1974:
 
 ![CTA74](CTA74.PNG)\
 
-The value of 78 psi seems to have been copied incorrectly. In fact, nearly all the values from table 2 are different than their original source:
-
 ![CTA74_2](CTA74_2.PNG)\
 
-There is no source of the 80 psi value for horizontal shear - it's inclusion is due to a typo made 60 years ago.
+Based on this data, the committee recommended a shear capacity value of 80 psi for smooth surfaces with reinforcement, and 400 psi for rough surfaces with reinforcement. They describe these values as incorporating a 2 to 2.5 safety factor, though it is unclear what that is based on -  for instance, the largest horizontal shear capacity with a roughened joint is only 580 psi, a less than 1.5 safety factor over 400. 
+
+The committee deliberately abstined from making a recommendation for unreinforced joints:
+
+![aci333_4](aci333_4.PNG)\
+
+Despite this, the 80 psi value was incorporated into ACI 318-71 as the recommended value for both smooth reinforced joints, and rough unreinforced joints.
+
+![aci333_3](aci333_3.PNG)\
+
+That value has remained unchanged in the code ever since.
 
 ---
 
 So if the value of 80 psi is based on nothing, what is the actual capacity of an unreinforced horizontal concrete joint?
 
-The research in this area is summarized in [Kovach (2008):](https://preserve.lehigh.edu/cgi/viewcontent.cgi?article=2018&context=etd)
+Much of the research in this area is summarized in [Kovach (2008):](https://preserve.lehigh.edu/cgi/viewcontent.cgi?article=2018&context=etd)
 
 ![kovach2008](kovach2008.PNG)\
 ![kovach2008_2](kovach2008_2.PNG)\
@@ -71,9 +75,23 @@ Running his own series of tests, Kovach achieves the following results:
 ![kovach2008_3](kovach2008_3.PNG)\
 ![kovach2008_4](kovach2008_4.PNG)\
 
-The horizontal shear strengths of an unreinforced joint as calculated by Kovach (and consistent with previous research) are 6-10 times that of the value currently required by ACI. 
+The horizontal shear strengths of an unreinforced joint as calculated by Kovach (and consistent with previous research) range from 435 psi to 571 psi, 6-10 times that of the value currently required by ACI.
 
-Given the existing provisions provenance, and the results of more recent research, ACI should consider re-examining these provisions.
+---
+
+Another comprehensive study of shear capacity was performed by Loov and Pataik (1994). Running their own series of tests, and summarizing the data of 5 previous studies, they approximate the horizontal shear capacity of a concrete joint as:
+
+![loov1994](loov1994.PNG)\
+
+Where k is 0.5 for joints, and 0.6 for monolithic pours. This equation provides a reasonable lower bound of capacity:
+
+![loov1994_2](loov1994_2.PNG)\
+
+For 4000 psi concrete and the recommended k value of 0.5 an unreinforced joint would have a 122 psi capacity (a value which conservatively does not take surface roughness into account, as capacity varies substantially with roughness).
+
+---
+
+Regardless of the formula used, given the provenance of existing, and the results of more recent research, ACI should consider re-examining these provisions.
 
 ---
 
@@ -84,11 +102,12 @@ Given the existing provisions provenance, and the results of more recent researc
 3. Concrete Technology Associates (1974). Composite Systems without Roughness. Technical
 Bulletin 74-B6.
 4. Hanson, N. W. (1960). Precast-Prestressed Concrete Bridges(2) Horizontal Shear Connections. Journal of the Research and Development Laboratories, Portland Cement Association, 2(2), 38 - 58.
-5. Kaar, P. H.; Kriz, L. B.; and Hognestad, E., 1960, “PrecastPrestressed Concrete Bridges: (1) Pilot Tests of Continuous Girders,” Journal, PCA Research and Development Laboratories, V. 2, No. 2, May, pp. 21-37.
-6. Kovach, J.D, 2008, "Horizontal Shear Capacity ofComposite Concrete Beams without Interface Ties", Masters Thesis, Lehigh University
-7. Saemann, J. C., and Washa, G. W., 1964, “Horizontal Shear Connections between Precast Beams and Cast-in Place Slabs,” ACI Journal Proceedings, V. 61, No. 11, Nov., pp. 1383-1409. Also see discussion, ACI Journal Proceedings, V. 62, June 1965.
+5. Kaar, P. H.; Kriz, L. B.; and Hognestad, E., 1960, “Precast Prestressed Concrete Bridges: (1) Pilot Tests of Continuous Girders,” Journal, PCA Research and Development Laboratories, V. 2, No. 2, May, pp. 21-37.
+6. Kovach, J.D, 2008, "Horizontal Shear Capacity of Composite Concrete Beams without Interface Ties", Masters Thesis, Lehigh University
+7. Loov RE & Patnaik AK. Horizontal shear strength of composite concrete beams with a rough interface. PCI Journal January–February 1994: 39(1): 48–109.
+8. Saemann, J. C., and Washa, G. W., 1964, “Horizontal Shear Connections between Precast Beams and Cast-in Place Slabs,” ACI Journal Proceedings, V. 61, No. 11, Nov., pp. 1383-1409. Also see discussion, ACI Journal Proceedings, V. 62, June 1965.
 
-###### *last updated: 5/11/20*
+###### *last updated: 5/12/20*
 
 
 
