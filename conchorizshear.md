@@ -3,7 +3,7 @@
 
 It's often infeasible to construct large concrete structural elements in a single pour of concrete. In such cases, these elements are often constructed in a way that leaves a horizontal joint through the concrete. Typical examples would be field-topped precast hollowcore planks, or shallow foundations where the slab is poured after the grade beams.
 
-If we wish to use the full depth of these elements by using composite action, this joint must be designed to transfer horizontal shear across it. The provisions for calculating concrete horizontal shear capacity are given in ACI 318-19 Table 16.4.4.2:
+If we wish to take advantage of the full depth of these elements by using composite action, this joint must be designed to transfer horizontal shear across it. The provisions for calculating concrete horizontal shear capacity are given in ACI 318-19 Table 16.4.4.2:
 
 ![table16442](table16442.PNG)\
 
