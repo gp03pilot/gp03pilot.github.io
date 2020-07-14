@@ -1,85 +1,50 @@
 ###### [home](/index.html)
-## Horizontal Shear Capacity of Concrete Joints
+## Horizontal Shear Capacity of Unreinforced Concrete Joints
 
-It's often infeasible to pour a concrete structural element all at one time. Because of this, pours are often split up - the contractor may pour foundation grade beams, and then back and pour the slab on top. Or they may set a precast concrete floor, and then pour a concrete topping over them. Differently timed concrete pours will leave horizontal joints in through the concrete, creating a composite member.
+It's often infeasible to construct large concrete structural elements in a single pour of concrete. In such cases, these elements are often constructed in a way that leaves a horizontal joint through the concrete. Typical examples would be field-topped precast hollowcore planks, or shallow foundations where the slab is poured after the grade beams.
 
-Because horizontal shear will be transferred across this joint, it's necessary to know it's capacity to resist load. These provisions for calculating its capacity are given in ACI 318-19 Table 16.4.4.2:
+If we wish to use the full depth of these elements by using composite action, this joint must be designed to transfer horizontal shear across it. The provisions for calculating concrete horizontal shear capacity are given in ACI 318-19 Table 16.4.4.2:
 
 ![table16442](table16442.PNG)\
 
-The code gives a severe penalty to concrete without shear reinforcing crossing the joint, and to concrete not roughened to a +-1/4" amplitude (with a roughened surface being required for an unreinforced joint). The maximum capacity of an unreinforced concrete joint is 80 psi.
+The code gives a severe penalty to concrete without shear reinforcing crossing the joint. For unreinforced joints, roughening the surface to 1/4" amplitude is required, and the capacity is limited to 80 psi.
 
-Roughening a concrete surface to 1/4" amplitude and installing shear reinforcing are both labor-intensive, time consuming and costly. So it's useful to examine the source of this provision, particularly the 80 psi value for an unreinforced joint.
+Roughening a concrete surface to 1/4" amplitude and installing shear reinforcing are labor-intensive, time consuming and costly. So it's useful to examine the source of these provisions, in particular the 80 psi capacity for an unreinforced joint.
 
----
+### History of the Unreinforced Horizontal Shear Provisions
 
-According the the commentary, these load capacities are based on research done in the early 60's:
-
-![R16442](R16442.PNG)\
-
-However, looking at these sources makes it unclear where the 80 psi comes from.
-
-[Kaar (1960)](https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=51685340) ran no tests for horizontal shear through unreinforced joints.
-
-[Hanson (1960)](https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=19425) states:
-
->3. The girder and push-off tests reported herein indicate a maximum shearing stress for composite action of 500 psi for a rough bonded surface and 300 psi for a smooth bonded surface. The compressive strengths of the concretes were 3000 and 5000 psi for the slab and girder, respectively.
-
-And [Saemann and Washa (1964)](https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/16707) give an equation based on % steel, shear span, and effective depth, with unreinforced joint capacity ranging from 450psi to 200psi:
-
-![saemann1964](saemann1964.PNG)\
-
-So where does the 80psi value come from?
-
----
-
-If we dig back, we find that the 80 psi value first appears in ACI-ASCE Committee 333 "Tentative Recommendations for Design of Composite Beams and Girders for Buildings".
-
-![aci333_2](aci333_2.PNG)\
-
-These recommendations are based on horizontal shear capacities of 78 beams tested, nine of which failed in horizontal shear. Of these, only 3 of these members had unreinforced joints, all of which were smooth:
+The 80 psi value for an unreinforced horizontal joint first appears in the code in ACI 318-71. According to the commentary in ACI 318, the horizontal shear provisions are based on a series of experiments performed in the early 60's: *Kaar et al (1960)*, *Seamann and Washa (1964)*, and *Hanson (1960)*. However, none of these publications reference a capacity of 80 psi[1]. Digging back further, we find the earliest mention of 80 psi in relation to horizontal shear strength appears in the 1960 ACI-ASCE Committee 333 publication *Tentative Recommendations for Design of Composite Beams and Girders for Buildings*. This publication summarized experiments done on 78 concrete beams, 9 of which failed in horizontal shear: 
 
 ![aci333](aci333.PNG)\
 
-Furthermore, the data in Table 2 appears to have been copied incorrectly. We can find it discussed in a CTA Technical Bulletin from 1974:
+80 psi first appears in the report as the shear capacity of a smooth concrete surface:
 
-![CTA74](CTA74.PNG)\
+>In view of the evidence discussed briefly in the preceding paragraph the committee considered it advisable at this time to base the recommended bond values for smooth surfaces on the strength of 80 psi, and for rough surfaces on the strength of 400 psi. The factor of safety for beams beams designed according to these recommendations ranges from 2.0 up. In view of the uncertainty concerning the bond strength in the range of larger a/d values, a factor of safety of 2.5 was used to obtain allowable bond stresses (Section 205.2.1) for the rough surfaces. For smooth surfaces, better covered by the available test information, a factor of safety of 2.0 was selected.
 
-![CTA74_2](CTA74_2.PNG)\
+Of the 9 beams which failed in horizontal shear, only 3 had unreinforced joints, none of which had roughened surfaces. As such,  the committee deliberately abstined from making a recommendation for unreinforced joints:
 
-Based on this data, the committee recommended a shear capacity value of 80 psi for smooth surfaces with reinforcement, and 400 psi for rough surfaces with reinforcement. They describe these values as incorporating a 2 to 2.5 safety factor, though it is unclear what that is based on -  for instance, the largest horizontal shear capacity with a roughened joint is only 580 psi, a less than 1.5 safety factor over 400. 
+>The committee strongly recommends the use of steel ties crossing the contact area in all composite concrete T-beams. For light concrete joists and for slabs with precast beams completely embedded on three sides, this recommendation may be too severe. The committee considered such construction outside the scope of the tentative recommendations.
 
-The committee deliberately abstined from making a recommendation for unreinforced joints:
+Despite these recommendations, and the lack of relevant test data, the 80 psi value from this publication was incorporated into ACI 318-71 as the recommended value for both smooth reinforced joints, and rough unreinforced joints. We can find this discussed in *CTA Technical Bulletin 35*: 
 
-![aci333_4](aci333_4.PNG)\
+>The 1971 ACI Code refers to tests by Seamann and Washa, Hanson, Mattock and Kaar, and Krossfield and Brinstiel, as the basis for the requirements on horizontal shear. In all the above references, only three speciments without steel ties were tested to failure, and these achieved 350 psi (Hanson), 420 psi and 606 psi (Saemann and Washa) of horizontal shear, respectively. It must be concluded that the present-day allowance of 80 psi for an intentionally roughened contact surface without ties derives from the report of Committee 333 discussed above.
 
-Despite this, the 80 psi value was incorporated into ACI 318-71 as the recommended value for both smooth reinforced joints, and rough unreinforced joints.
+Despite it's questionable provenance, the 80 psi capacity of a roughened unreinforced concrete joint remains as the code defined value in ACI 318.
 
-![aci333_3](aci333_3.PNG)\
+### Additional Research on Horizontal Shear Capacity
 
-That value has remained unchanged in the code ever since.
+So if the value of 80 psi has no empirical backing, what is the actual capacity of an unreinforced horizontal concrete joint?
 
----
-
-So if the value of 80 psi is based on nothing, what is the actual capacity of an unreinforced horizontal concrete joint?
-
-Much of the research in this area is summarized in [Kovach (2008):](https://preserve.lehigh.edu/cgi/viewcontent.cgi?article=2018&context=etd)
+Much of the research in this area is summarized in [Kovach (2008)](https://preserve.lehigh.edu/cgi/viewcontent.cgi?article=2018&context=etd), *Horizontal shear capacity of composite concrete
+beams without interface ties*:
 
 ![kovach2008](kovach2008.PNG)\
 ![kovach2008_2](kovach2008_2.PNG)\
 
-The samples vary in concrete strength, surface finish, testing conditions, and preparation prior to pouring (with some being deliberately fabricated in such a way to prevent a bond from forming), making it difficult to draw direct conclusions beyond the obvious conservatism of the 80 psi limit.
+The experiments tabulated vary in concrete strength, surface finish, and general testing conditions, resulting in a wide spread of unreinforced horizonal shear strengths. However, we can see the majority of the tests failed at several hundred psi, significantly above the current code value of 80 psi. For the tests which show lower capacities, we can see that the surface was either smooth or a bond was otherwise deliberately prevented from forming.
 
-Running his own series of tests, Kovach achieves the following results:
-
-![kovach2008_3](kovach2008_3.PNG)\
-![kovach2008_4](kovach2008_4.PNG)\
-
-The horizontal shear strengths of an unreinforced joint as calculated by Kovach (and consistent with previous research) range from 435 psi to 571 psi, 6-10 times that of the value currently required by ACI.
-
----
-
-Another comprehensive study of shear capacity was performed by Loov and Pataik (1994). Running their own series of tests, and summarizing the data of 5 previous studies, they approximate the horizontal shear capacity of a concrete joint as:
+Another comprehensive study of shear capacity was performed by Loov and Pataik (1994) *Horizontal Shear Strength of
+Composite Concrete Beams With a Rough Interface*. Running their own series of tests, and combining their results with those of 5 previous studies, they approximate the horizontal shear capacity of an unreinforced concrete joint as:
 
 ![loov1994](loov1994.PNG)\
 
@@ -87,11 +52,30 @@ Where k is 0.5 for joints, and 0.6 for monolithic pours. This equation provides 
 
 ![loov1994_2](loov1994_2.PNG)\
 
-For 4000 psi concrete and the recommended k value of 0.5 an unreinforced joint would have a 122 psi capacity (a value which conservatively does not take surface roughness into account, as capacity varies substantially with roughness).
+Using the Pataik equation, and a recommended k value of 0.5 an unreinforced joint, we find that for 4000 psi concrete we get a capacity of 122 psi, over 50% more than the capacity currently given by ACI 318.
+
+Loov and Pataik also note that deliberately roughening the surface appears to be unnecessary, and that an as-cast surface is sufficient to develop bond between pours if the rough aggregate is left exposed:
+
+>Because an as-cast concrete surface with coarse aggregate
+left protruding from the surface can develop sufficient horizontal shear resistance, more elaborate finishing is not required.
+
+However, they do caution that surface roughness has a significant impact on the horizontal capacity achieved (which can be seen in the results summarized by Kovach), and that a cautious approach is warranted.
+
+### Summary
+
+The current provisions for unreinforced horizontal shear strength in ACI 318 have little empirical backing, and fail to accurately predict the capacity of these joints. More recent work summarizing the relevant studies in this area suggests that the current code significantly underestimates the capacity of these joints, and that a more accurate design equation would give significantly higher capacities.
 
 ---
 
-Regardless of the formula used, given the provenance of existing, and the results of more recent research, ACI should consider re-examining these provisions.
+### Footnotes:
+
+1. [Kaar (1960)](https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=51685340) ran no tests for horizontal shear through unreinforced joints. [Hanson (1960)](https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=19425) states:
+
+>3. The girder and push-off tests reported herein indicate a maximum shearing stress for composite action of 500 psi for a rough bonded surface and 300 psi for a smooth bonded surface. The compressive strengths of the concretes were 3000 and 5000 psi for the slab and girder, respectively.
+
+And [Saemann and Washa (1964)](https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/16707) give an equation based on % steel, shear span, and effective depth, with unreinforced joint capacity ranging from 450psi to 200psi:
+
+![saemann1964](saemann1964.PNG)\
 
 ---
 
@@ -99,15 +83,14 @@ Regardless of the formula used, given the provenance of existing, and the result
 
 1. ACI 318-19
 2. ACI-ASCE Committee 333 (1960). Tentative Recommendations for Design of Composite Beams and Girders, for Buildings. ACI Journal, 57(6), 609 - 628.
-3. Concrete Technology Associates (1974). Composite Systems without Roughness. Technical
-Bulletin 74-B6.
+3. Concrete Technology Associates (1974). Composite Systems without Roughness. Technical Bulletin 74-B6.
 4. Hanson, N. W. (1960). Precast-Prestressed Concrete Bridges(2) Horizontal Shear Connections. Journal of the Research and Development Laboratories, Portland Cement Association, 2(2), 38 - 58.
 5. Kaar, P. H.; Kriz, L. B.; and Hognestad, E., 1960, “Precast Prestressed Concrete Bridges: (1) Pilot Tests of Continuous Girders,” Journal, PCA Research and Development Laboratories, V. 2, No. 2, May, pp. 21-37.
 6. Kovach, J.D, 2008, "Horizontal Shear Capacity of Composite Concrete Beams without Interface Ties", Masters Thesis, Lehigh University
 7. Loov RE & Patnaik AK. Horizontal shear strength of composite concrete beams with a rough interface. PCI Journal January–February 1994: 39(1): 48–109.
 8. Saemann, J. C., and Washa, G. W., 1964, “Horizontal Shear Connections between Precast Beams and Cast-in Place Slabs,” ACI Journal Proceedings, V. 61, No. 11, Nov., pp. 1383-1409. Also see discussion, ACI Journal Proceedings, V. 62, June 1965.
 
-###### *last updated: 5/12/20*
+###### *last updated: 7/13/20*
 
 
 
