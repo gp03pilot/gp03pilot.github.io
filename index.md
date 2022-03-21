@@ -1,6 +1,6 @@
 ---
 title: index
-date: 03/21/22
+date: 03/21/2022
 ---
 
 ### Welcome to Kabri Construction Research

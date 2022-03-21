@@ -1,6 +1,6 @@
 ---
 title: about
-date: 03/21/22
+date: 03/21/2022
 ---
 
 ### Test Dat About Page
