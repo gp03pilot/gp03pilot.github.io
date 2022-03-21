@@ -1,21 +1,8 @@
-# Coarse Grains
+---
+title: index
+date: 03/21/22
+---
 
-Miscellaneous projects by Brian Potter
+### Welcome to Kabri Construction Research
 
-### Notes
-
-- [Horizontal Shear Capacity of Concrete Joints](/conchorizshear.html) - Tracking down the source of some conservative ACI provisions.
-- [Structural Composite Lumber](/scl.html) - Miscellaneous notes on Composite Lumber and the limitations of normal lumber.
-- [Densified Wood](/densifiedwood.html) - An engineered wood product made by applying high pressure to dimensional lumber.
-- [Stainless Steel Rockets](/stainlessrocket.html) - The benefits of using stainless steel for rocket construction.
-- [Concrete Age](/concreteage.html) - Defining the time to determine f'c.
-- [How to Write a Structural Engineering Resume](/structuralresume.html) - Guide for writing a structural engineering resume.
-- [Structural Engineering Resources](/resourcelist.html) - A list of resources I've found helpful for structural engineering work.
-- [Modular Construction](/modular.html) - A list of various modular construction initiatives that have taken place over the years.
-- [1000 Year House](/1000year.html) - How would you build a house if you wanted it to last for 1000 years?
-- [Structural Systems](/structuralsystems.html) - A list of structural framing systems, both historic and modern.
-- [Changing the Construction Industry](/constructionchanges.html) - Thoughts and resources on the future of the construction industry.
-- [Design for Manufacturability Handbook](/dfm2.html)
-- [How Buildings Learn](/buildingslearn.html)
-
-###### *last updated: 05/09/20*
+Improving the construction industry (improve efficiency, reduce cost, create platforms for implementation of innovative solutions) through innovation and x. Partnering with established firms and startups to help bring innovative ideas to fruition as well as inhouse research and development that will further our goal of improving the industry. 

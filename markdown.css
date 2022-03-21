@@ -1,5 +1,37 @@
+.header{
+  /* Enable flex mode. */
+  display: flex; 
+  /* Spread out the elements inside the header. */
+  justify-content: space-between;
+
+  /* Align items vertically in the center. */
+  align-items: center;
+  border-bottom: 1px #444 solid;
+}
+
+.footer{
+  /* Enable flex mode. */
+  display: flex; 
+  /* Spread out the elements inside the header. */
+  justify-content: space-between;
+  /* Align items vertically in the center. */
+  align-items: center;
+  border-top: 2px #444 solid;
+}
+
+.header-left h1{
+  margin: 10px auto;
+}
+.header-center h5{
+  margin: 10px auto;
+}
+
+.img-logo {
+	margin: 10px auto;
+}
+
 body{max-width:650px;
-  margin:40px auto;
+  margin:10px auto;
   padding:0 10px;
   font:18px/1.5 -apple-system,BlinkMacSystemFont,"avenir next",avenir,"Segoe UI","lucida grande","helvetica neue",helvetica,"Fira Sans",roboto,noto,"Droid Sans",cantarell,oxygen,ubuntu,"franklin gothic medium","century gothic","Liberation Sans",sans-serif;color:#444}
   h1,h2,h3{line-height:1.2}
