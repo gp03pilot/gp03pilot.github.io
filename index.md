@@ -1,5 +1,5 @@
 ---
-title: index
+title: Home
 ---
 
 ### Welcome to Kabri Construction Research
