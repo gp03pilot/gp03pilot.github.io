@@ -1,6 +1,5 @@
 ---
 title: Home
-datez: 03/22/22
 ---
 
 ### Welcome to Kabri Construction Research

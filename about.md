@@ -1,6 +1,5 @@
 ---
 title: About
-datez: 010203
 ---
 
 ### About Us
