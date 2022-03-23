@@ -1,7 +1,9 @@
 ---
 title: Home
-datez:03/22/22
+datez: 03/22/22
 ---
+
+![](home_stock.png)
 
 ### Welcome to Kabri Construction Research
 
@@ -11,4 +13,3 @@ To improving the construction industry through innovation by partnering with est
 - Prefabrication
 - Industrialized building
 - Construction innovation and analysis
-

@@ -1,6 +1,6 @@
 ---
 title: About
-datez:03/22/22
+datez: 03/22/22
 ---
 
 ### About Us
