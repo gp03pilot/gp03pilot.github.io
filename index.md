@@ -1,15 +1,16 @@
 ---
 title: Home
-datez: 03/22/22
+datez: 03/23/22
 ---
 
 ![](home_stock.png)
 
 ### Welcome to Kabri Construction Research
 
-To improving the construction industry through innovation by partnering with established firms and startups to help bring innovative ideas to fruition as well as inhouse research and development that will further the goal of improving the industry. 
+Kabri Construction Research is a consulting firm that specializes in construction industry research and analysis. We partner with both established firms and startups to help develop innovative ideas, as well as perform in-house research with the goal of moving the construction industry forward.
 
 #### Areas of Focus
+- Construction innovation
+- Building system analysis
 - Prefabrication
 - Industrialized building
-- Construction innovation and analysis
